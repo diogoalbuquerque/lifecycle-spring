@@ -19,7 +19,7 @@ Project that aims to understand the spring life cycle.
 
 * destroy() - Execute during bean destruction.
 
-### Post Processors
+## Post Processors
 
 * postProcessBeforeInitialization - Before bean initialization.
 
